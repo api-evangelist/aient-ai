@@ -1,4 +1,4 @@
-# aient-ai
+# Aient
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -65,4 +65,70 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 aient-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://aient.ai/
+
+**Areas:** AI SRE · Automated Fixes · DevOps
+
+## Aient on APIs.io
+
+Everything profiled for Aient is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aient-ai/](https://apis.io/providers/aient-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Aient AI API](https://apis.io/apis/aient-ai/aient-ai-api/) — Aient AI provides telemetry SDKs and server APIs as documented in the reference.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Aient Ai Webhooks](https://apis.io/asyncapis/aient-ai/aient-ai-webhooks/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aient Ai Authentication](https://apis.io/security/aient-ai/aient-ai-authentication/)
+- [Aient Ai Domain Security](https://apis.io/security/aient-ai/aient-ai-domain-security/)
+- [Aient Ai Trust Center](https://apis.io/security/aient-ai/aient-ai-trust-center/)
+- [Aient Ai Vulnerability Disclosure](https://apis.io/security/aient-ai/aient-ai-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Aient Ai Plans Pricing](https://apis.io/plans/aient-ai/aient-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aient.ai/)
+- [Documentation](https://docs.aient.ai/)
+- [Getting started](https://docs.aient.ai/quickstart/opentelemetry)
+- [API reference](https://docs.aient.ai/llms-full.txt)
+- [Pricing](https://aient.ai/pricing)
+- [Changelog](https://docs.aient.ai/changelog)
+- [Blog](https://aient.ai/blog)
+- [Security](https://aient.ai/security)
+- [Compliance](https://aient.ai/security)
+- [Terms of service](https://aient.ai/legal/terms)
+- [Privacy policy](https://aient.ai/legal/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/aient-ai/](https://apis.io/providers/aient-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Aient: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aient-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
