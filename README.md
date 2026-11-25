@@ -86,20 +86,26 @@ Event-driven and webhook contracts.
 
 - [Aient Ai Webhooks](https://apis.io/asyncapis/aient-ai/aient-ai-webhooks/)
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [aient-ai-mcp.yml](https://apis.io/servers/aient-ai/aient-ai-mcp-yml/)
+
 #### Security (4)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aient Ai Authentication](https://apis.io/security/aient-ai/aient-ai-authentication/)
-- [Aient Ai Domain Security](https://apis.io/security/aient-ai/aient-ai-domain-security/)
-- [Aient Ai Trust Center](https://apis.io/security/aient-ai/aient-ai-trust-center/)
-- [Aient Ai Vulnerability Disclosure](https://apis.io/security/aient-ai/aient-ai-vulnerability-disclosure/)
+- [Aient Authentication](https://apis.io/security/aient-ai/aient-ai-authentication/)
+- [Aient Domain Security](https://apis.io/security/aient-ai/aient-ai-domain-security/)
+- [Aient Trust Center](https://apis.io/security/aient-ai/aient-ai-trust-center/)
+- [Aient Vulnerability Disclosure](https://apis.io/security/aient-ai/aient-ai-vulnerability-disclosure/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Aient Ai Plans Pricing](https://apis.io/plans/aient-ai/aient-ai-plans-pricing/)
+- [Aient Plans Pricing](https://apis.io/plans/aient-ai/aient-ai-plans-pricing/)
 
 ## Where to find this API
 
@@ -119,7 +125,50 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/aient-ai/](https://apis.io/providers/aient-ai/).
+**Kin Score 51.7** — developing · rubric 0.28.1 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 39.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 31.0 |
+| Developer ergonomics | 56.4 |
+| Access clarity | 93.6 |
+
+**Agent readiness 47.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | yes |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aient-ai/](https://apis.io/providers/aient-ai/).
 
 ## How this profile is made
 
